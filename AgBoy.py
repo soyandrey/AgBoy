@@ -145,4 +145,4 @@ async def on_member_join(member):
          pass
 
 
-bot.run('OTMwMjI5MzY5MDE0NzE4NTM1.Ydy1nA.H7muEKPKR5ozejUpgBZ9qtZQPOY')
+bot.run('the token here')
